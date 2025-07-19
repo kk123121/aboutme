@@ -1,18 +1,7 @@
 [
     {
-        "Username": "admin",
-        "Password": "admin123"
-    },
-    {
-        "Username": "zire",
-        "Password": "securepassword"
-    },
-    {
-        "Username": "user1",
-        "Password": "password1"
-    },
-    {
-        "Username": "user2",
-        "Password": "password2"
+        "Username": "Owner",
+        "Password": "pass",
+        "HWID": "7BEB6980-C9E8-11E6-9C19-F272B6383C00"
     }
 ]
