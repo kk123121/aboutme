@@ -1,1 +1,18 @@
-
+[
+    {
+        "Username": "admin",
+        "Password": "admin123"
+    },
+    {
+        "Username": "zire",
+        "Password": "securepassword"
+    },
+    {
+        "Username": "user1",
+        "Password": "password1"
+    },
+    {
+        "Username": "user2",
+        "Password": "password2"
+    }
+]
